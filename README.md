@@ -48,8 +48,8 @@ Creative Canvas is a cutting-edge AI-powered art generator that transforms text 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/creative-canvas.git
-   cd creative-canvas
+   git clone [https://github.com/Sa1ndesh/Ai_Art_Generator.git]
+   cd Ai_Art_Generator
    ```
 
 2. **Install dependencies**
@@ -284,9 +284,9 @@ We welcome contributions! Here's how to get started:
 
 ### Getting Help
 
-- 📖 [Documentation](https://github.com/yourusername/creative-canvas/wiki)
-- 🐛 [Issue Tracker](https://github.com/yourusername/creative-canvas/issues)
-- 💬 [Discussions](https://github.com/yourusername/creative-canvas/discussions)
+- 📖 [Documentation](https://github.com/Sa1ndesh/Ai_Art_Generator/wiki)
+- 🐛 [Issue Tracker](https://github.com/Sa1ndesh/Ai_Art_Generator/issues)
+- 💬 [Discussions](https://github.com/Sa1ndesh/Ai_Art_Generator/discussions)
 
 ---
 
@@ -311,15 +311,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Give a ⭐️ if this project helped you! Your support means the world to us.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/creative-canvas?style=social)](https://github.com/yourusername/creative-canvas/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/creative-canvas?style=social)](https://github.com/yourusername/creative-canvas/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/yourusername/creative-canvas.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20art%20generator!%20https://github.com/yourusername/creative-canvas)
+[![GitHub stars](https://img.shields.io/github/stars/Sa1ndesh/Ai_Art_Generator?style=social)](https://github.com/Sa1ndesh/Ai_Art_Generator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Sa1ndesh/Ai_Art_Generator?style=social)](https://github.com/Sa1ndesh/Ai_Art_Generator/network)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/Sa1ndesh/Ai_Art_Generator.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20art%20generator!%20https://github.com/Sa1ndesh/Ai_Art_Generator)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ and AI**
+**Made with Sandy❤️**
 
 [⬆️ Back to Top](#-creative-canvas---ai-art-generator)
 
